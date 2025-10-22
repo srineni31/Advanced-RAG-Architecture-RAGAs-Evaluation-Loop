@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+ragas
+trulens
+openai
+pandas
+pyyaml
+huggingface_hub
+sentence-transformers
+streamlit
